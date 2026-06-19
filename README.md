@@ -1,8 +1,8 @@
 # SimplWorks Friction Audit Engine
 
-**The front-end CTA for a web design agency, automated end to end.**
+**The front end CTA for a web design agency, automated end to end.**
 
-A prospect drops their website URL on your site. Seconds later they get a branded, scored 10-point audit of their own site in their inbox, and their name, email, and phone land in your Slack to follow up. Give away the audit, win the build.
+A prospect drops their website URL on your site. Seconds later they get a branded, scored 10 point audit of their own site in their inbox, and their name, email, and phone land in your Slack to follow up. Give away the audit, win the build.
 
 Built in [n8n](https://n8n.io). This repo is the workflow plus the website integration, shared as free value for the AI Automation campus.
 
@@ -21,9 +21,9 @@ Built in [n8n](https://n8n.io). This repo is the workflow plus the website integ
 4. It renders a **branded PDF** with [Cloudflare Browser Rendering](https://developers.cloudflare.com/browser-rendering/) and emails it to the prospect from the agency's domain.
 5. It posts a **lead alert** (name, email, phone, score) to Slack so the agency can follow up.
 
-The free audit is the hook. The follow-up is the close.
+The free audit is the hook. The follow up is the close.
 
-**The funnel and the framework are built on The Real World's principles:** value-first conversion and the belief sequence the campus teaches. The free audit is the give-first hook, the report is framed around the prospect's own pain, and the build earns the close by what it demonstrates, not by what it claims.
+**The funnel and the framework are built on The Real World's principles:** value first conversion and the belief sequence the campus teaches. The free audit is the give/first hook, the report is framed around the prospect's own pain, and the build earns the close by what it demonstrates, not by what it claims.
 
 ---
 
