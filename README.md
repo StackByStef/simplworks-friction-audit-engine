@@ -42,7 +42,7 @@ The free audit is the hook. The follow-up is the close.
 
 ## Stack
 
-`n8n` · `Supabase` · `OpenAI (GPT-4.1-mini)` · `Anthropic (Claude)` · `Google PageSpeed / Lighthouse` · `Cloudflare Browser Rendering` · `Resend` · `Slack` · `Next.js` (the website route)
+`n8n` · `Supabase` · `OpenAI (GPT-4.1-mini)` · `Anthropic (Claude Haiku 4.5)` · `Google PageSpeed / Lighthouse` · `Cloudflare Browser Rendering` · `Resend` · `Slack` · `Next.js` (the website route)
 
 ---
 
