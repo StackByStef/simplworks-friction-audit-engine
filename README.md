@@ -90,13 +90,3 @@ create table public.friction_audits (
 create index on public.friction_audits (url_hash);
 alter table public.friction_audits enable row level security;
 ```
-
----
-
-## Notes
-
-Shared as free value for the AI Automation campus. Take it, build on it, make it yours.
-
-The 10-point framework is SimplWorks' Friction Audit methodology. The architecture is here to learn from; the credentials, prompt tuning, and brand are mine.
-
-Built by **SimplWorks** · web design + AI automation · [simplworks.ai](https://simplworks.ai)
